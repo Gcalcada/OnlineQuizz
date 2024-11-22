@@ -1,0 +1,16 @@
+{
+    "name": "online-quizz-backend",
+    "version": "1.0.0",
+    "main": "server.mjs",
+    "scripts": {
+        "dev": "node server.mjs"
+    },
+    "dependencies": {
+        "express": "^4.21.1",
+        "socket.io": "^4.8.1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}

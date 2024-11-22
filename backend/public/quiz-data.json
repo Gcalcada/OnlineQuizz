@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Qual é a capital de Portugal?",
+        "options": [
+            "Lisboa",
+            "Porto",
+            "Coimbra",
+            "Funchal"
+        ],
+        "answer": "Lisboa"
+    },
+    {
+        "question": "Qual é a cor do céu?",
+        "options": [
+            "Azul",
+            "Verde",
+            "Vermelho",
+            "Amarelo"
+        ],
+        "answer": "Azul"
+    }
+]
